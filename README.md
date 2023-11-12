@@ -11,3 +11,8 @@ Every music lover's wet dream.
 ## Over-the-top features
 * Encyclopaedia Musica ?? (online db, metal-archives.com version 2.0) - an online version of the existing db scheme, that you can sync and compare your private collection to (perhaps even gain some community respect e.g. badges). Would require a collaborative space and tool-set for artists, experts and users to create and verify submissions. Would require tedious maintenance that only hardly sleeping, ocd-fueled audiophiles can provide.
 * AtoMix ?? (AI) - recreate actual DJ sets, home sets and live performances in your collection. Sound recognition model (with some algorithm) matches tracks to "source" version (Studio version/Original mix), finds mix-in/mix-out timestamps in the source set and saves it to your db as a playlist. Using Master Play(er/list) functionalities and built-in (AI?) fader/mixer, the original set can be successfully reconstructed with "source" music splitted with those timestamps. Now you can take your favorite set and make it even better by removing some pesky slow-down-dubstep-part-taken-from-no-name-remix.
+
+## More features
+* Integrations - more plugins (discord, reddit, slack) to create playlists from channels/threads.
+* Statistics - overview of personal favourites (most played, most popular across playlists etc.).
+* Suggestions - mode for playlist extension based on e.g. genre name (or some algo).
